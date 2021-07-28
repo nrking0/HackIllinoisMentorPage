@@ -15,18 +15,10 @@
         "ecmaVersion": 12,
         "sourceType": "module"
     },
-    "plugins": [
-        "react"
-    ],
+    "plugins": ["react"],
     "rules": {
-        "quotes": [
-            "error",
-            "double"
-        ],
-        "semi": [
-            "error",
-            "always"
-        ],
+        "quotes": ["error", "double"],
+        "semi": ["error", "always"],
         "import/extensions": [
             "error",
             "ignorePackages",

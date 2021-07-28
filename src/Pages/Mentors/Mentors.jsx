@@ -2,10 +2,7 @@ import React from "react";
 import "./Mentors.css";
 
 const Mentors = () => {
-
-    return(
-        <></>
-    );
+    return <></>;
 };
 
 export default Mentors;
