@@ -1,0 +1,15 @@
+.mentors-main {
+    position: relative;
+    min-height: 100vh;
+    width: 100%;
+    /* background-color: #16538c; */
+    overflow: hidden;
+    background-image: url("../../images/gradient.jpg");
+    background-position: center;
+    background-size: cover;
+}
+
+p {
+    text-align: center;
+    color: #f1f1f1;
+}
