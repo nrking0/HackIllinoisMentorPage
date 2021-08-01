@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/hackIllinoisMentorPage/static/css/main.374a7932.chunk.css",
-    "main.js": "/hackIllinoisMentorPage/static/js/main.d11cc94d.chunk.js",
-    "main.js.map": "/hackIllinoisMentorPage/static/js/main.d11cc94d.chunk.js.map",
-    "runtime-main.js": "/hackIllinoisMentorPage/static/js/runtime-main.d3c4e8ed.js",
-    "runtime-main.js.map": "/hackIllinoisMentorPage/static/js/runtime-main.d3c4e8ed.js.map",
-    "static/js/2.9cffa725.chunk.js": "/hackIllinoisMentorPage/static/js/2.9cffa725.chunk.js",
-    "static/js/2.9cffa725.chunk.js.map": "/hackIllinoisMentorPage/static/js/2.9cffa725.chunk.js.map",
-    "static/js/3.93722ffe.chunk.js": "/hackIllinoisMentorPage/static/js/3.93722ffe.chunk.js",
-    "static/js/3.93722ffe.chunk.js.map": "/hackIllinoisMentorPage/static/js/3.93722ffe.chunk.js.map",
-    "index.html": "/hackIllinoisMentorPage/index.html",
-    "static/css/main.374a7932.chunk.css.map": "/hackIllinoisMentorPage/static/css/main.374a7932.chunk.css.map",
-    "static/js/2.9cffa725.chunk.js.LICENSE.txt": "/hackIllinoisMentorPage/static/js/2.9cffa725.chunk.js.LICENSE.txt",
-    "static/media/Mentors.css": "/hackIllinoisMentorPage/static/media/gradient.d0db2616.jpg"
+    "main.css": "/HackIllinoisMentorPage/static/css/main.17bfd0b6.chunk.css",
+    "main.js": "/HackIllinoisMentorPage/static/js/main.69bf8648.chunk.js",
+    "main.js.map": "/HackIllinoisMentorPage/static/js/main.69bf8648.chunk.js.map",
+    "runtime-main.js": "/HackIllinoisMentorPage/static/js/runtime-main.c5f21b91.js",
+    "runtime-main.js.map": "/HackIllinoisMentorPage/static/js/runtime-main.c5f21b91.js.map",
+    "static/js/2.9cffa725.chunk.js": "/HackIllinoisMentorPage/static/js/2.9cffa725.chunk.js",
+    "static/js/2.9cffa725.chunk.js.map": "/HackIllinoisMentorPage/static/js/2.9cffa725.chunk.js.map",
+    "static/js/3.93722ffe.chunk.js": "/HackIllinoisMentorPage/static/js/3.93722ffe.chunk.js",
+    "static/js/3.93722ffe.chunk.js.map": "/HackIllinoisMentorPage/static/js/3.93722ffe.chunk.js.map",
+    "index.html": "/HackIllinoisMentorPage/index.html",
+    "static/css/main.17bfd0b6.chunk.css.map": "/HackIllinoisMentorPage/static/css/main.17bfd0b6.chunk.css.map",
+    "static/js/2.9cffa725.chunk.js.LICENSE.txt": "/HackIllinoisMentorPage/static/js/2.9cffa725.chunk.js.LICENSE.txt",
+    "static/media/Mentors.css": "/HackIllinoisMentorPage/static/media/gradient.d0db2616.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.d3c4e8ed.js",
+    "static/js/runtime-main.c5f21b91.js",
     "static/js/2.9cffa725.chunk.js",
-    "static/css/main.374a7932.chunk.css",
-    "static/js/main.d11cc94d.chunk.js"
+    "static/css/main.17bfd0b6.chunk.css",
+    "static/js/main.69bf8648.chunk.js"
   ]
 }
