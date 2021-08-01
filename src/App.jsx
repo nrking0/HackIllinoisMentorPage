@@ -4,12 +4,12 @@ import "./App.css";
 import Mentors from "./Pages/Mentors/Mentors.jsx";
 import Navbar from "./Components/Navbar/Navbar.jsx";
 import Home from "./Pages/Home/Home.jsx";
-import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
+import { HashRouter as Router, Route, Switch } from "react-router-dom";
 
 function App() {
     return (
         <div className="App">
-            <Router basename="HackIllinoisMentorPage/">
+            <Router>
                 <Navbar />
                 <Switch>
                     <div className="main">

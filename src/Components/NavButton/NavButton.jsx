@@ -19,7 +19,7 @@ const NavButton = (props) => {
 
     return (
         <div className="navbutton">
-        <a href={"/" + props.url} className={isCurrentWindow(props.url) && "active"}>
+        <a href={"#" + props.url} className={isCurrentWindow(props.url) && "active"}>
             { props.children }
         </a>
         </div>
