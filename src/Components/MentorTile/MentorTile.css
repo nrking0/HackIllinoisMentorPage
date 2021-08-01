@@ -1,0 +1,72 @@
+.tile {
+    width: 360px;
+    height: 370px;
+    margin: 40px;
+    background-color: #c07326;
+    background-size: cover;
+    position: relative;
+    transition: all 0.5s ease;
+    box-shadow: 0px 20px 50px -5px #000000;
+    overflow: hidden;
+    color: #f1f1f1;
+    border-radius: 10px;
+}
+
+.tile img {
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 0;
+    transition: all 0.5s ease;
+}
+
+.tile .info {
+    position: absolute;
+    padding: 30px;
+    height: 310px;
+}
+
+.tile h1 {
+    position: absolute;
+    bottom: 10px;
+    font-weight: 400;
+    margin: 0;
+    text-shadow: -4px 2px 15px #000000;
+}
+
+.tile p {
+    font-weight: 300;
+    margin: 20px 0 0 0;
+    transform: translateX(-200px);
+    text-shadow: -4px 2px 10px #000000;
+    opacity: 0;
+    transition: all 0.8s ease;
+}
+
+.tile:hover {
+    box-shadow: 0px 20px 70px -5px #000000;
+    transform: scale(1.05);
+}
+
+.tile:hover img {
+    opacity: 0.2;
+}
+
+.tile:hover p {
+    transform: translateX(0);
+    opacity: 1;
+}
+
+@media (max-width: 600px) {
+    .tile {
+        margin: 10px;
+        width: 340px;
+        height: 350px;
+    }
+
+    .tile .info {
+        height: 290px;
+    }
+}
