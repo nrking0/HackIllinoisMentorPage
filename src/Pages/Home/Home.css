@@ -1,0 +1,13 @@
+.home-main {
+    background-image: url("../../images/gradient.jpg");
+    background-position: center;
+    background-size: cover;
+    overflow: hidden;
+    min-height: 100vh;
+    width: 100%;
+}
+
+.home-main h1 {
+    color: white;
+    text-align: center;
+}
