@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/HackIllinoisMentorPage/static/css/main.2e5e6294.chunk.css",
-    "main.js": "/HackIllinoisMentorPage/static/js/main.e388d3e1.chunk.js",
-    "main.js.map": "/HackIllinoisMentorPage/static/js/main.e388d3e1.chunk.js.map",
+    "main.css": "/HackIllinoisMentorPage/static/css/main.cad196e1.chunk.css",
+    "main.js": "/HackIllinoisMentorPage/static/js/main.9588a16c.chunk.js",
+    "main.js.map": "/HackIllinoisMentorPage/static/js/main.9588a16c.chunk.js.map",
     "runtime-main.js": "/HackIllinoisMentorPage/static/js/runtime-main.5ed018db.js",
     "runtime-main.js.map": "/HackIllinoisMentorPage/static/js/runtime-main.5ed018db.js.map",
     "static/js/2.c31cfc0e.chunk.js": "/HackIllinoisMentorPage/static/js/2.c31cfc0e.chunk.js",
@@ -10,14 +10,14 @@
     "static/js/3.06911dbb.chunk.js": "/HackIllinoisMentorPage/static/js/3.06911dbb.chunk.js",
     "static/js/3.06911dbb.chunk.js.map": "/HackIllinoisMentorPage/static/js/3.06911dbb.chunk.js.map",
     "index.html": "/HackIllinoisMentorPage/index.html",
-    "static/css/main.2e5e6294.chunk.css.map": "/HackIllinoisMentorPage/static/css/main.2e5e6294.chunk.css.map",
+    "static/css/main.cad196e1.chunk.css.map": "/HackIllinoisMentorPage/static/css/main.cad196e1.chunk.css.map",
     "static/js/2.c31cfc0e.chunk.js.LICENSE.txt": "/HackIllinoisMentorPage/static/js/2.c31cfc0e.chunk.js.LICENSE.txt",
     "static/media/Home.css": "/HackIllinoisMentorPage/static/media/gradient.d0db2616.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.5ed018db.js",
     "static/js/2.c31cfc0e.chunk.js",
-    "static/css/main.2e5e6294.chunk.css",
-    "static/js/main.e388d3e1.chunk.js"
+    "static/css/main.cad196e1.chunk.css",
+    "static/js/main.9588a16c.chunk.js"
   ]
 }
