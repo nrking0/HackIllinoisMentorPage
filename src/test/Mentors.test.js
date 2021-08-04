@@ -1,9 +1,9 @@
 /* eslint-disable no-undef */
 import React from "react";
 import { render } from "@testing-library/react";
-import App from "../App.jsx";
+import Mentors from "../Pages/Mentors/Mentors.jsx";
 
 test("Test", () => {
-    render(<App />);
+    render(<Mentors />);
     expect(1).toBe(1);
 });
