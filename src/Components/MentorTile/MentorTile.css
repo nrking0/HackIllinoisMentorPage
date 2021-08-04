@@ -63,10 +63,9 @@
     .tile {
         margin: 10px;
         width: 340px;
-        height: 350px;
     }
 
-    .tile .info {
-        height: 290px;
+    .tile p {
+        font-size: medium;
     }
 }

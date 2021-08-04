@@ -30,9 +30,19 @@
     font-weight: 400;
 }
 
+.loading {
+    text-align: center;
+    color: #f1f1f1;
+    margin: 20vh auto auto;
+    width: fit-content;
+}
+
+.loading-animation {
+    margin: auto;
+}
+
 @media (max-width: 600px) {
     .mentor-tile {
         width: 360px;
-        height: 370;
     }
 }
