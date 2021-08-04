@@ -3,7 +3,8 @@ import "./Home.css";
 
 const Home = () => (
     <div className="home-main">
-        <h1>Hello, World!</h1>
+        <h1>Welcome to Hack Illinois!</h1>
+        <a href="#mentors">Meet our mentors</a>
     </div>
 );
 
