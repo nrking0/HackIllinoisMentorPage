@@ -3,6 +3,14 @@ import "./Navbar.css";
 import NavButton from "../NavButton/NavButton.jsx";
 import PropTypes from "prop-types";
 
+/**
+ * This is the navbar for the page. The title is larger on the
+ * left side and is a link to the home page. Other pages have smaller
+ * links on the right side of the navbar.
+ * 
+ * @param {*} props Information of the links and their specific paths
+ * @returns the navbar component
+ */
 const Navbar = (props) => {
     return (
         <>

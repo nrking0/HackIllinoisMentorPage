@@ -6,6 +6,14 @@ import Navbar from "./Components/Navbar/Navbar.jsx";
 import Home from "./Pages/Home/Home.jsx";
 import { Route, Switch, useLocation } from "react-router-dom";
 
+/**
+ * This is the application container for all of the different
+ * page components. The switch for the react router is shown
+ * below with both the home page and the mentors page having 
+ * seperate links.
+ * 
+ * @returns The application with all of its subcomponents 
+ */
 function App() {
     let location = useLocation();
 
