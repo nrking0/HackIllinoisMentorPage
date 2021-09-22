@@ -4,6 +4,15 @@ import useMentors from "../../utils/useMentors";
 import MentorTile from "../../Components/MentorTile/MentorTile.jsx";
 import ReactLoading from "react-loading";
 
+/**
+ * This is the main page where the HackIllinois mentors can be viewed.
+ * This page will use the custom hook (useMentors) to call the HackIllinois
+ * API and then populate the page with the responded data. Additionally, the
+ * page will show a loading animation while it is waiting for the API to
+ * respond.
+ * 
+ * @returns the completed mentors page
+ */
 const Mentors = () => {
     const mentors = useMentors();
 
