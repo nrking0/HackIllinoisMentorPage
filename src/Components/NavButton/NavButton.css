@@ -5,8 +5,9 @@
     padding: 19px 25px;
     text-decoration: none;
 }
-  
-.navbutton a::before, .navbutton.active a::before {
+
+.navbutton a::before,
+.navbutton.active a::before {
     content: "";
     position: absolute;
     bottom: 16px;
@@ -17,7 +18,8 @@
     transition: width 0.3s ease;
 }
 
-.navbutton a::after, .navbutton.active a::after {
+.navbutton a::after,
+.navbutton.active a::after {
     content: "";
     position: absolute;
     bottom: 16px;
@@ -28,10 +30,12 @@
     transition: width 0.3s ease;
 }
 
-.navbutton a:hover::after, .navbutton a:hover::before {
+.navbutton a:hover::after,
+.navbutton a:hover::before {
     width: 28%;
 }
 
-.navbutton.active a::before, .navbutton.active a::after {
+.navbutton.active a::before,
+.navbutton.active a::after {
     width: 28%;
 }

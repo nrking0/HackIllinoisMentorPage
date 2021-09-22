@@ -10,7 +10,7 @@ import ReactLoading from "react-loading";
  * API and then populate the page with the responded data. Additionally, the
  * page will show a loading animation while it is waiting for the API to
  * respond.
- * 
+ *
  * @returns the completed mentors page
  */
 const Mentors = () => {

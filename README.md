@@ -1,4 +1,3 @@
-
 <div align="center">
 <h1>Hack-Illinois Mentors Page</h1>
 <img src="https://github.com/nrking0/HackIllinoisMentorPage/actions/workflows/mentors-cicd.yml/badge.svg" />

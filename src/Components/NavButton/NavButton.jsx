@@ -16,11 +16,11 @@ const NavButton = (props) => {
     // };
 
     return (
-        <div className={props.page === props.url ? "navbutton active" : "navbutton"}>
-            <a
-                href={"#" + props.url}>
-                {props.children}
-            </a>
+        <div
+            className={
+                props.page === props.url ? "navbutton active" : "navbutton"
+            }>
+            <a href={"#" + props.url}>{props.children}</a>
         </div>
     );
 };

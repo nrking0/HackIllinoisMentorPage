@@ -41,7 +41,9 @@ it("Testing Mentor Tiles with API Data", async () => {
     await act(async () => {
         render(<Mentors />, container);
     });
-    expect(container.querySelector("p").textContent).toBe(mentorData.data[0].description);
+    expect(container.querySelector("p").textContent).toBe(
+        mentorData.data[0].description
+    );
     expect(container.textContent).toContain(mentorData.data[0].firstName);
     expect(container.textContent).toContain(mentorData.data[0].lastName);
 
